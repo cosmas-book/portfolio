@@ -5,7 +5,7 @@
         <div class="row align-items-center">
             <!-- Profile Picture Column -->
             <div class="col-md-4 mb-4 fade-in">
-                <img src="./assets/images/DSC_0032-removebg-preview (1).png" 
+                <img src="../public/assets/images/DSC_0032-removebg-preview (1).png" 
                      alt="Your Profile Picture" 
                      class="img-fluid  rounded shadow-lg" 
                      style="max-width: 250px;">
